@@ -1,0 +1,5 @@
+payload:  
+  # > customProxy
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,lbyczf.com
+
